@@ -1,0 +1,14 @@
+c:\Users\Саня\Documents\GitHub\calculator\Calculatar\bin\Debug\net8.0\Calculatar.exe
+c:\Users\Саня\Documents\GitHub\calculator\Calculatar\bin\Debug\net8.0\Calculatar.deps.json
+c:\Users\Саня\Documents\GitHub\calculator\Calculatar\bin\Debug\net8.0\Calculatar.runtimeconfig.json
+c:\Users\Саня\Documents\GitHub\calculator\Calculatar\bin\Debug\net8.0\Calculatar.dll
+c:\Users\Саня\Documents\GitHub\calculator\Calculatar\bin\Debug\net8.0\Calculatar.pdb
+c:\Users\Саня\Documents\GitHub\calculator\Calculatar\obj\Debug\net8.0\Calculatar.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Саня\Documents\GitHub\calculator\Calculatar\obj\Debug\net8.0\Calculatar.AssemblyInfoInputs.cache
+c:\Users\Саня\Documents\GitHub\calculator\Calculatar\obj\Debug\net8.0\Calculatar.AssemblyInfo.cs
+c:\Users\Саня\Documents\GitHub\calculator\Calculatar\obj\Debug\net8.0\Calculatar.csproj.CoreCompileInputs.cache
+c:\Users\Саня\Documents\GitHub\calculator\Calculatar\obj\Debug\net8.0\Calculatar.dll
+c:\Users\Саня\Documents\GitHub\calculator\Calculatar\obj\Debug\net8.0\refint\Calculatar.dll
+c:\Users\Саня\Documents\GitHub\calculator\Calculatar\obj\Debug\net8.0\Calculatar.pdb
+c:\Users\Саня\Documents\GitHub\calculator\Calculatar\obj\Debug\net8.0\Calculatar.genruntimeconfig.cache
+c:\Users\Саня\Documents\GitHub\calculator\Calculatar\obj\Debug\net8.0\ref\Calculatar.dll
